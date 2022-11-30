@@ -1,0 +1,15 @@
+{
+  "name": "backend_puzzle",
+  "version": "1.0.0",
+  "description": "Simple memoize function for backend application",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antonio Hincapie",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
